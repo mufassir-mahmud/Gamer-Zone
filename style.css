@@ -143,6 +143,7 @@
   }
   .gamer-title {
     font-size: 48px;
+    text-align: end;
     font-weight: 700;
     background: linear-gradient(180deg, #f948b2 0%, #8758f1 100%);
     background-clip: text;
@@ -154,9 +155,11 @@
     color: #534c64;
     font-size: 18px;
     font-weight: 400;
+    text-align: end;
   }
   .gamer-btn {
     margin-top: 20px;
+    margin-left: 370px;
     padding: 15px 30px;
     border-radius: 48px;
     font-size: 21px;
@@ -169,35 +172,14 @@
   .purpose-title {
     margin-top: 20px;
     margin-left: 50px;
+    text-align: end;
   }
   .purpose-title-big-text {
     font-size: 30px;
     font-weight: 600;
+    text-align: end;
   }
-/*  
-  .online-section h1,
-  p {
-    text-align: center;
-  }
-  .online-section h1{
-    font-size: 35px;
-  }
-  .card-section {
-    margin-top: 50px;
-    text-align: center;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    gap: 50px;
-  }
-  .card-section .card img{
-    cursor: pointer;  
-    
-  }
-  .card-section p {
-    margin-top: 15px;
-    text-align: justify;
-  } */
+
   .online-section h1 {
     color: #0b0223;
     text-align: center;
